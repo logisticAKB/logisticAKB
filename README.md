@@ -34,7 +34,7 @@
 <a href="https://vk.com/aleshkabragin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alexey-bragin-915799156/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:a.k.bragin@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://discordapp.com/channels/@me/logistic#8165/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/jbfw9jM"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/bragin.a.k/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
