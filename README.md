@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=logisticAKB&count_private=true&hide_border=true&show_icons=true&include_all_commits=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logisticAKB&hide_border=true&hide=TeX&layout=compact">
+<img align="center" src="https://github-readme-stats-alpha-liart.vercel.app/api?username=logisticAKB&count_private=true&hide_border=true&show_icons=true&include_all_commits=true">
+<img align="center" src="https://github-readme-stats-alpha-liart.vercel.app/api/top-langs/?username=logisticAKB&hide_border=true&hide=TeX&layout=compact">
 </p>
 
 <p align="center">
