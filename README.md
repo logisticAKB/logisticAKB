@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything related to ML.
 - 👯 I’m looking to collaborate on ML projects, kaggle competitions.
 - ⚡ Fun fact: I'm addicted to JetBrains IDE's. 
-</br></br></br></br>
+</br></br></br></br></br>
 
 <h2 align="center"> Languages and Tools </h2>
 <p align="center">
